@@ -1,1 +1,1 @@
-Project version: "1.0.10"
+Project version: "1.0.11"
